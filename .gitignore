@@ -1,0 +1,57 @@
+# Unreal Engine - Generated files (can be regenerated)
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Rider IDE
+.idea/
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large generated asset files
+*.pdb
+Content/Collections/
