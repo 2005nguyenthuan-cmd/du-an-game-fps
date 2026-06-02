@@ -55,3 +55,8 @@ Thumbs.db
 # Large generated asset files
 *.pdb
 Content/Collections/
+
+# Local downloaded/reference assets and generated exports
+ExternalAssets/
+outputs/
+*.temp
